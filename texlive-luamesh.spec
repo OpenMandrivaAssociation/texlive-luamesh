@@ -1,6 +1,6 @@
 Name:		texlive-luamesh
 Version:	63875
-Release:	1
+Release:	2
 Summary:	Computes and draws 2D Delaunay triangulation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luamesh
