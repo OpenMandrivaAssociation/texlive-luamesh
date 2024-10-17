@@ -3,7 +3,7 @@ Version:	63875
 Release:	2
 Summary:	Computes and draws 2D Delaunay triangulation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luamesh
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luamesh
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luamesh.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luamesh.doc.r%{version}.tar.xz
